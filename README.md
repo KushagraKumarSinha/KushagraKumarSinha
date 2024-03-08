@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushagra (Kush for short)</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="code" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 - I have made a website for a startup, and have raised $120,000 [VanityKart Technologies](https://www.vktechnologiesme.com/)
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am also a Graphic Designer**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: kushagrasinha402@gmail.com</h3>
 <p align="left">
 </p>
 
