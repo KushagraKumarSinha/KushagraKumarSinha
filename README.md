@@ -3,17 +3,19 @@
 
 <img align="right" alt="code" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- I have made a website for a startup, and have raised $120,000 [VanityKart Technologies](https://www.vktechnologiesme.com/)
+I’m a software developer who loves building fast, clean, and actually-fun digital experiences. I move quick, learn quicker, and spend way too much time polishing tiny UI details no one notices (but they totally matter). I’m all about creating things that feel good to use, break down complex problems, and ship stuff that just works.
 
-- Popular Frameworks that I use **ReactJS, FastAPI, Node.js, Django**
+What I’m into:
 
-- I have made a slot booking application for a gym [Snap Fitness](http://178.23.187.190/)
+Frontend dev with React, Next.js, TypeScript
 
-- I have made an application for a company that helps them manage their products **TargetOne**
+Backend bits with Node, Supabase, and PostgreSQL
 
-- 📫 How to reach me **kushagrasinha402@gmail.com**
+Turning ideas into working prototypes
 
-- ⚡ Fun fact **I am also a Graphic Designer**
+Automating anything repetitive
+
+Clean UI, smooth UX, good vibes
 
 <h3 align="left">Connect with me: kushagrasinha402@gmail.com</h3>
 <p align="left">
