@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushagra (Kush for short)</h1>
 
-<img align="right" alt="code" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="code" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 I’m a software developer who loves building fast, clean, and actually-fun digital experiences. I move quick, learn quicker, and spend way too much time polishing tiny UI details no one notices (but they totally matter). I’m all about creating things that feel good to use, break down complex problems, and ship stuff that just works.
 
