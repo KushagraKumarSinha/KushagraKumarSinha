@@ -5,17 +5,13 @@
 
 I’m a software developer who loves building fast, clean, and actually-fun digital experiences. I move quick, learn quicker, and spend way too much time polishing tiny UI details no one notices (but they totally matter). I’m all about creating things that feel good to use, break down complex problems, and ship stuff that just works.
 
-What I’m into:
+⚡ What I’m Into
 
-Frontend dev with React, Next.js, TypeScript
-
-Backend bits with Node, Supabase, and PostgreSQL
-
-Turning ideas into working prototypes
-
-Automating anything repetitive
-
-Clean UI, smooth UX, good vibes
+🎨 Frontend: React, Next.js, TypeScript
+🛠️ Backend: Node.js, Supabase, PostgreSQL
+🚀 Rapid prototyping & idea-to-product workflows
+🤖 Automating anything repetitive
+✨ Clean UI, smooth UX, good vibes
 
 <h3 align="left">Connect with me: kushagrasinha402@gmail.com</h3>
 <p align="left">
