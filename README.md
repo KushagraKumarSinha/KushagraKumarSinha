@@ -8,9 +8,13 @@ I’m a software developer who loves building fast, clean, and actually-fun digi
 ⚡ What I’m Into
 
 🎨 Frontend: React, Next.js, TypeScript
+
 🛠️ Backend: Node.js, Supabase, PostgreSQL
+
 🚀 Rapid prototyping & idea-to-product workflows
+
 🤖 Automating anything repetitive
+
 ✨ Clean UI, smooth UX, good vibes
 
 <h3 align="left">Connect with me: kushagrasinha402@gmail.com</h3>
