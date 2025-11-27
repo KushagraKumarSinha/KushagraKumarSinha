@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kushagra (Kush for short)</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="code" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 I’m a software developer who loves building fast, clean, and actually-fun digital experiences. I move quick, learn quicker, and spend way too much time polishing tiny UI details no one notices (but they totally matter). I’m all about creating things that feel good to use, break down complex problems, and ship stuff that just works.
 
-⚡ What I’m Into
-
-🎨 Frontend: React, Next.js, TypeScript
-
-🛠️ Backend: Node.js, Supabase, PostgreSQL
-
-🚀 Rapid prototyping & idea-to-product workflows
-
-🤖 Automating anything repetitive
-
-✨ Clean UI, smooth UX, good vibes
+⚡ <b>What I’m Into</b>
+<ul>
+  <li>🎨 <b>Frontend:</b> React, Next.js, TypeScript</li>
+  <li>🛠️ <b>Backend:</b> Node.js, Supabase, PostgreSQL</li>
+  <li>🚀 <b>Rapid prototyping</b> & idea-to-product workflows</li>
+  <li>🤖 <b>Automating</b> anything repetitive</li>
+</ul>
 
 <h3 align="left">Connect with me: kushagrasinha402@gmail.com</h3>
 <p align="left">
