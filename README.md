@@ -8,8 +8,8 @@ I’m a software developer who loves building fast, clean, and actually-fun digi
 <ul>
   <li>🎨 <b>Frontend:</b> React, Next.js, TypeScript</li>
   <li>🛠️ <b>Backend:</b> Node.js, Supabase, PostgreSQL</li>
-  <li>🤖 <b>AI:</b> LLM integration, AI-powered features, and workflow intelligence</li>
-  <li>🚀 <b>Rapid prototyping</b> & idea-to-product workflows</li>
+  <li>🤖 <b>AI:</b> LLM integration, and AI workflows</li>
+  <li>🚀 <b>Rapid prototyping</b> & idea-to-product</li>
   <li>⚙️ <b>Automating</b> anything repetitive</li>
 </ul>
 
