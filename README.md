@@ -2,7 +2,7 @@
 
 <img align="right" alt="code" width="400" src="https://miro.medium.com/v2/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
-I’m a software developer who loves building fast, clean, and actually-fun digital experiences. I move quick, learn quicker, and spend way too much time polishing tiny UI details no one notices (but they totally matter). I’m all about creating things that feel good to use, break down complex problems, and ship stuff that works.
+I’m a software developer who loves building fast, clean, and actually-fun digital experiences. I move quick, learn quicker, and spend way too much time polishing tiny UI details. I’m all about creating things that feel good to use, break down complex problems, and ship stuff that works.
 
 ⚡ <b>What I’m Into</b>
 <ul>
