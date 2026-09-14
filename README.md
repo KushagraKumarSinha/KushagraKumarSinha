@@ -13,6 +13,8 @@ I’m a software developer who loves building fast, clean, and actually-fun digi
   <li>⚙️ <b>Automating</b> anything repetitive</li>
 </ul>
 
+<hr/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
