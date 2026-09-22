@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kushagra (Kush for short)</h1>
 
-<img align="right" alt="code" width="350" src="https://miro.medium.com/v2/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="code" width="320" src="https://miro.medium.com/v2/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif" />
 
 - 🌱 I'm currently **learning software development**, from fundamentals to full-stack projects
 - 🎯 I'm focused on **React, Next.js, TypeScript, Node.js, and Python**
@@ -9,6 +9,7 @@
 - 💬 Ask me about anything I've listed above — happy to learn out loud
 - 📫 Reach me at **[your email or contact link]**
 
+<br clear="both" />
 <hr/>
 
 <h3 align="left">Languages and Tools:</h3>
