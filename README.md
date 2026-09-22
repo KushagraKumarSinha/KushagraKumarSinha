@@ -2,16 +2,12 @@
 
 <img align="right" alt="code" width="350" src="https://miro.medium.com/v2/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
-I’m a software developer who loves building fast, clean, and actually-fun digital experiences. I move quick, learn quicker, and spend way too much time polishing tiny UI details. I’m all about creating things that feel good to use, break down complex problems, and ship stuff that works.
-
-⚡ <b>What I’m Into</b>
-<ul>
-  <li>🎨 <b>Frontend:</b> React, Next.js, TypeScript</li>
-  <li>🛠️ <b>Backend:</b> Node.js, Python, Supabase</li>
-  <li>🤖 <b>AI:</b> LLM integration, and AI workflows</li>
-  <li>🚀 <b>Rapid prototyping</b> & idea-to-product</li>
-  <li>⚙️ <b>Automating</b> anything repetitive</li>
-</ul>
+- 🌱 I'm currently **learning software development**, from fundamentals to full-stack projects
+- 🎯 I'm focused on **React, Next.js, TypeScript, Node.js, and Python**
+- 🤖 I'm exploring **AI/LLM integration** as part of my learning
+- 🤝 I'm open to **connecting with other learners** or anyone open to mentoring
+- 💬 Ask me about anything I've listed above — happy to learn out loud
+- 📫 Reach me at **[your email or contact link]**
 
 <hr/>
 
